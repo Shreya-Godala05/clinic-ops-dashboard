@@ -1,0 +1,291 @@
+feedback_id,appointment_id,patient_id,rating,comment,feedback_date
+1,1,244,1,Billing took too long and was confusing.,2025-03-15
+2,8,45,3,"Visit was fine, nothing special.",2025-08-16
+3,11,52,1,Waited over an hour past my appointment time.,2025-05-02
+4,12,95,2,Had to reschedule twice due to poor communication.,2025-10-10
+5,16,111,5,Great follow-up call after my visit.,2025-01-29
+6,18,51,2,Billing took too long and was confusing.,2025-10-10
+7,21,11,3,"Visit was fine, nothing special.",2025-02-11
+8,25,124,2,Billing took too long and was confusing.,2025-04-15
+9,30,128,2,Billing took too long and was confusing.,2025-08-28
+10,34,94,3,"Average experience, doctor was a bit rushed.",2025-07-25
+11,37,143,4,Clean facility and friendly front desk.,2025-03-15
+12,38,10,1,Had to reschedule twice due to poor communication.,2025-06-20
+13,39,36,5,Doctor was very attentive and explained everything clearly.,2025-11-10
+14,46,108,5,Great follow-up call after my visit.,2025-07-31
+15,47,236,5,"Short waiting time, very efficient staff.",2025-02-01
+16,49,88,3,"Average experience, doctor was a bit rushed.",2025-07-01
+17,55,52,1,Had to reschedule twice due to poor communication.,2025-05-19
+18,57,58,5,Clean facility and friendly front desk.,2025-04-30
+19,67,189,5,Clean facility and friendly front desk.,2025-06-01
+20,74,95,5,Great follow-up call after my visit.,2025-04-24
+21,76,212,4,"Short waiting time, very efficient staff.",2025-05-07
+22,78,232,3,"Visit was fine, nothing special.",2025-04-14
+23,82,191,3,"Average experience, doctor was a bit rushed.",2025-10-24
+24,83,17,5,Doctor was very attentive and explained everything clearly.,2025-01-31
+25,88,109,4,Great follow-up call after my visit.,2025-07-14
+26,89,71,3,"Visit was fine, nothing special.",2025-02-27
+27,90,62,1,Had to reschedule twice due to poor communication.,2025-02-04
+28,91,181,5,Clean facility and friendly front desk.,2025-05-06
+29,92,56,2,Billing took too long and was confusing.,2025-03-13
+30,95,243,2,Had to reschedule twice due to poor communication.,2025-03-31
+31,97,179,2,Waited over an hour past my appointment time.,2025-07-29
+32,101,138,3,"Visit was fine, nothing special.",2025-04-08
+33,102,155,4,"Short waiting time, very efficient staff.",2025-02-07
+34,104,235,4,Clean facility and friendly front desk.,2025-12-23
+35,105,142,5,"Short waiting time, very efficient staff.",2025-05-25
+36,107,121,5,Doctor was very attentive and explained everything clearly.,2025-04-15
+37,108,222,5,Clean facility and friendly front desk.,2025-03-16
+38,109,149,4,Great follow-up call after my visit.,2025-08-02
+39,114,13,5,Clean facility and friendly front desk.,2025-07-31
+40,122,168,4,"Short waiting time, very efficient staff.",2025-01-17
+41,126,237,5,"Short waiting time, very efficient staff.",2025-10-06
+42,128,42,2,Billing took too long and was confusing.,2025-05-04
+43,131,8,4,"Short waiting time, very efficient staff.",2025-05-20
+44,135,2,4,"Short waiting time, very efficient staff.",2025-08-16
+45,138,75,5,Great follow-up call after my visit.,2025-07-18
+46,140,38,5,Clean facility and friendly front desk.,2025-03-27
+47,145,243,4,"Short waiting time, very efficient staff.",2025-04-13
+48,150,210,1,Had to reschedule twice due to poor communication.,2025-12-11
+49,151,65,1,Billing took too long and was confusing.,2025-03-20
+50,152,123,5,Doctor was very attentive and explained everything clearly.,2025-07-25
+51,155,174,5,Clean facility and friendly front desk.,2025-07-24
+52,157,119,3,"Average experience, doctor was a bit rushed.",2025-10-29
+53,158,124,4,"Short waiting time, very efficient staff.",2025-06-01
+54,161,82,5,Doctor was very attentive and explained everything clearly.,2025-06-03
+55,162,166,3,"Average experience, doctor was a bit rushed.",2025-12-13
+56,165,158,5,Clean facility and friendly front desk.,2025-08-19
+57,171,31,1,Had to reschedule twice due to poor communication.,2025-06-06
+58,172,131,2,Had to reschedule twice due to poor communication.,2025-08-03
+59,174,74,5,"Short waiting time, very efficient staff.",2025-04-06
+60,178,75,4,Clean facility and friendly front desk.,2025-05-21
+61,179,145,3,"Average experience, doctor was a bit rushed.",2025-09-11
+62,185,207,4,Great follow-up call after my visit.,2025-10-19
+63,188,222,1,Had to reschedule twice due to poor communication.,2025-03-06
+64,190,69,4,"Short waiting time, very efficient staff.",2025-08-01
+65,193,102,2,Front desk was unresponsive to my calls.,2025-08-08
+66,197,226,5,Doctor was very attentive and explained everything clearly.,2025-06-04
+67,198,65,5,Doctor was very attentive and explained everything clearly.,2025-07-10
+68,199,79,5,Clean facility and friendly front desk.,2025-12-25
+69,225,68,3,"Visit was fine, nothing special.",2025-10-23
+70,233,84,5,"Short waiting time, very efficient staff.",2025-10-11
+71,238,108,4,Doctor was very attentive and explained everything clearly.,2025-01-31
+72,240,149,3,"Visit was fine, nothing special.",2025-09-16
+73,241,16,4,Clean facility and friendly front desk.,2025-12-06
+74,242,238,3,"Average experience, doctor was a bit rushed.",2025-12-25
+75,243,20,5,Doctor was very attentive and explained everything clearly.,2025-03-11
+76,247,38,5,Great follow-up call after my visit.,2025-12-31
+77,249,143,4,Doctor was very attentive and explained everything clearly.,2025-10-09
+78,250,32,3,"Average experience, doctor was a bit rushed.",2025-02-01
+79,251,96,5,Great follow-up call after my visit.,2025-11-19
+80,253,208,4,"Short waiting time, very efficient staff.",2025-02-17
+81,257,106,3,"Average experience, doctor was a bit rushed.",2025-09-03
+82,258,108,4,Clean facility and friendly front desk.,2025-11-26
+83,259,204,2,Front desk was unresponsive to my calls.,2025-07-15
+84,260,89,4,Great follow-up call after my visit.,2025-09-15
+85,261,82,4,Great follow-up call after my visit.,2025-04-23
+86,262,136,2,Billing took too long and was confusing.,2025-10-27
+87,263,62,5,"Short waiting time, very efficient staff.",2025-10-01
+88,265,92,3,"Visit was fine, nothing special.",2025-01-15
+89,266,215,5,Great follow-up call after my visit.,2025-10-05
+90,272,167,4,Great follow-up call after my visit.,2025-03-31
+91,277,163,3,"Average experience, doctor was a bit rushed.",2025-12-29
+92,282,205,5,Doctor was very attentive and explained everything clearly.,2025-05-31
+93,286,85,5,Doctor was very attentive and explained everything clearly.,2025-04-08
+94,288,1,3,"Average experience, doctor was a bit rushed.",2025-02-14
+95,291,100,4,Clean facility and friendly front desk.,2025-07-09
+96,295,210,5,"Short waiting time, very efficient staff.",2025-08-03
+97,296,122,3,"Average experience, doctor was a bit rushed.",2025-02-10
+98,298,45,2,Billing took too long and was confusing.,2025-04-19
+99,304,226,3,"Visit was fine, nothing special.",2025-07-30
+100,305,156,2,Billing took too long and was confusing.,2025-01-20
+101,306,156,5,Doctor was very attentive and explained everything clearly.,2025-12-22
+102,310,69,5,"Short waiting time, very efficient staff.",2025-08-02
+103,315,181,5,Great follow-up call after my visit.,2025-05-21
+104,319,219,4,Doctor was very attentive and explained everything clearly.,2025-04-20
+105,323,118,5,Clean facility and friendly front desk.,2025-04-22
+106,326,71,2,Billing took too long and was confusing.,2025-06-16
+107,329,128,5,Clean facility and friendly front desk.,2025-05-13
+108,331,176,4,Doctor was very attentive and explained everything clearly.,2025-11-23
+109,333,190,4,Clean facility and friendly front desk.,2025-10-14
+110,334,91,5,Doctor was very attentive and explained everything clearly.,2025-06-07
+111,339,47,4,Clean facility and friendly front desk.,2025-09-07
+112,343,96,5,Great follow-up call after my visit.,2025-06-14
+113,344,161,5,Doctor was very attentive and explained everything clearly.,2025-05-08
+114,345,99,1,Billing took too long and was confusing.,2025-10-29
+115,346,77,4,Doctor was very attentive and explained everything clearly.,2025-08-22
+116,347,35,4,Clean facility and friendly front desk.,2025-09-08
+117,349,130,4,"Short waiting time, very efficient staff.",2025-03-05
+118,351,215,5,Great follow-up call after my visit.,2025-01-25
+119,353,3,2,Front desk was unresponsive to my calls.,2025-08-04
+120,360,200,4,Doctor was very attentive and explained everything clearly.,2025-02-08
+121,362,219,5,"Short waiting time, very efficient staff.",2025-07-04
+122,363,25,1,Waited over an hour past my appointment time.,2025-01-05
+123,372,224,3,"Visit was fine, nothing special.",2025-09-23
+124,373,64,3,"Average experience, doctor was a bit rushed.",2025-06-27
+125,375,219,4,"Short waiting time, very efficient staff.",2025-03-26
+126,376,249,5,"Short waiting time, very efficient staff.",2025-01-26
+127,381,53,1,Had to reschedule twice due to poor communication.,2025-12-10
+128,386,51,2,Front desk was unresponsive to my calls.,2025-03-03
+129,393,249,5,"Short waiting time, very efficient staff.",2025-08-20
+130,395,162,4,Clean facility and friendly front desk.,2025-04-13
+131,398,74,3,"Visit was fine, nothing special.",2025-01-07
+132,401,53,5,Clean facility and friendly front desk.,2025-01-17
+133,404,81,1,Front desk was unresponsive to my calls.,2025-01-28
+134,409,2,5,Doctor was very attentive and explained everything clearly.,2025-08-27
+135,412,18,1,Billing took too long and was confusing.,2025-03-23
+136,413,227,5,Doctor was very attentive and explained everything clearly.,2025-12-06
+137,419,249,4,"Short waiting time, very efficient staff.",2025-10-01
+138,422,7,5,Great follow-up call after my visit.,2025-06-19
+139,424,100,5,Great follow-up call after my visit.,2025-11-19
+140,426,12,2,Waited over an hour past my appointment time.,2025-02-07
+141,430,166,4,"Short waiting time, very efficient staff.",2025-01-06
+142,433,37,5,"Short waiting time, very efficient staff.",2025-04-05
+143,436,125,5,Great follow-up call after my visit.,2025-07-02
+144,437,18,2,Had to reschedule twice due to poor communication.,2025-06-12
+145,441,115,4,Doctor was very attentive and explained everything clearly.,2025-06-06
+146,444,104,5,Doctor was very attentive and explained everything clearly.,2025-04-19
+147,449,241,5,Doctor was very attentive and explained everything clearly.,2025-01-21
+148,450,95,1,Waited over an hour past my appointment time.,2025-01-22
+149,454,151,3,"Average experience, doctor was a bit rushed.",2025-02-09
+150,457,165,5,Great follow-up call after my visit.,2025-04-19
+151,460,166,4,"Short waiting time, very efficient staff.",2025-01-12
+152,462,15,3,"Visit was fine, nothing special.",2025-05-13
+153,463,164,5,Clean facility and friendly front desk.,2025-12-05
+154,464,121,2,Had to reschedule twice due to poor communication.,2025-03-29
+155,465,211,2,Waited over an hour past my appointment time.,2025-11-16
+156,466,88,4,Clean facility and friendly front desk.,2025-11-02
+157,471,224,2,Had to reschedule twice due to poor communication.,2025-12-24
+158,480,31,1,Front desk was unresponsive to my calls.,2025-04-28
+159,481,103,4,Doctor was very attentive and explained everything clearly.,2025-10-09
+160,482,2,1,Waited over an hour past my appointment time.,2025-03-16
+161,489,133,4,"Short waiting time, very efficient staff.",2025-12-27
+162,492,45,3,"Average experience, doctor was a bit rushed.",2025-09-17
+163,494,145,2,Front desk was unresponsive to my calls.,2025-05-05
+164,500,61,5,"Short waiting time, very efficient staff.",2025-05-04
+165,503,246,5,Great follow-up call after my visit.,2025-09-04
+166,508,98,4,Clean facility and friendly front desk.,2025-02-21
+167,509,48,5,"Short waiting time, very efficient staff.",2025-05-15
+168,510,88,4,Clean facility and friendly front desk.,2025-04-05
+169,518,144,1,Billing took too long and was confusing.,2025-05-12
+170,521,228,4,Great follow-up call after my visit.,2025-07-15
+171,524,168,4,Great follow-up call after my visit.,2025-12-30
+172,530,80,5,Clean facility and friendly front desk.,2025-05-07
+173,532,222,1,Waited over an hour past my appointment time.,2025-08-28
+174,533,249,4,"Short waiting time, very efficient staff.",2025-10-04
+175,536,40,5,"Short waiting time, very efficient staff.",2025-01-06
+176,537,137,5,Great follow-up call after my visit.,2025-12-19
+177,538,205,2,Waited over an hour past my appointment time.,2025-11-02
+178,540,166,3,"Visit was fine, nothing special.",2025-07-13
+179,541,62,5,Great follow-up call after my visit.,2025-11-10
+180,542,137,3,"Visit was fine, nothing special.",2025-07-31
+181,545,6,5,"Short waiting time, very efficient staff.",2025-02-22
+182,546,187,5,Great follow-up call after my visit.,2025-04-30
+183,547,88,5,"Short waiting time, very efficient staff.",2025-06-09
+184,553,134,4,Clean facility and friendly front desk.,2025-05-10
+185,556,3,5,Doctor was very attentive and explained everything clearly.,2025-10-25
+186,562,49,3,"Visit was fine, nothing special.",2025-04-06
+187,563,71,2,Had to reschedule twice due to poor communication.,2025-10-11
+188,571,152,1,Had to reschedule twice due to poor communication.,2025-01-26
+189,576,99,5,Doctor was very attentive and explained everything clearly.,2025-04-09
+190,579,203,5,Doctor was very attentive and explained everything clearly.,2025-10-09
+191,583,1,4,Great follow-up call after my visit.,2025-01-18
+192,584,2,2,Had to reschedule twice due to poor communication.,2025-04-24
+193,585,211,5,Doctor was very attentive and explained everything clearly.,2025-10-11
+194,587,60,3,"Average experience, doctor was a bit rushed.",2025-06-03
+195,588,188,5,Doctor was very attentive and explained everything clearly.,2025-06-16
+196,589,180,4,Clean facility and friendly front desk.,2025-02-18
+197,591,107,5,Doctor was very attentive and explained everything clearly.,2025-04-27
+198,592,98,5,Doctor was very attentive and explained everything clearly.,2025-06-06
+199,595,202,5,Clean facility and friendly front desk.,2025-03-17
+200,596,191,4,Clean facility and friendly front desk.,2025-10-08
+201,599,199,4,Clean facility and friendly front desk.,2025-06-15
+202,602,12,4,Doctor was very attentive and explained everything clearly.,2025-04-13
+203,606,193,3,"Average experience, doctor was a bit rushed.",2025-10-08
+204,609,242,5,Great follow-up call after my visit.,2025-02-04
+205,610,93,4,"Short waiting time, very efficient staff.",2025-01-10
+206,617,169,1,Front desk was unresponsive to my calls.,2025-02-14
+207,621,168,5,Great follow-up call after my visit.,2025-03-22
+208,623,247,3,"Average experience, doctor was a bit rushed.",2025-06-05
+209,624,28,1,Waited over an hour past my appointment time.,2025-04-05
+210,630,177,5,Clean facility and friendly front desk.,2025-08-23
+211,635,102,5,Clean facility and friendly front desk.,2025-05-27
+212,636,236,5,Doctor was very attentive and explained everything clearly.,2025-12-20
+213,638,140,4,Doctor was very attentive and explained everything clearly.,2025-07-21
+214,639,117,3,"Average experience, doctor was a bit rushed.",2025-12-31
+215,640,178,4,Clean facility and friendly front desk.,2025-12-31
+216,651,148,5,Great follow-up call after my visit.,2025-06-02
+217,655,32,4,Clean facility and friendly front desk.,2025-05-21
+218,656,54,3,"Average experience, doctor was a bit rushed.",2025-01-30
+219,657,155,2,Waited over an hour past my appointment time.,2025-05-28
+220,668,145,2,Waited over an hour past my appointment time.,2025-12-14
+221,670,97,5,Great follow-up call after my visit.,2025-10-01
+222,671,222,4,Doctor was very attentive and explained everything clearly.,2025-12-28
+223,672,128,2,Waited over an hour past my appointment time.,2025-07-10
+224,674,130,4,Great follow-up call after my visit.,2025-09-05
+225,677,100,5,Doctor was very attentive and explained everything clearly.,2025-09-25
+226,682,246,5,Clean facility and friendly front desk.,2025-10-14
+227,683,141,4,"Short waiting time, very efficient staff.",2025-05-19
+228,686,101,5,"Short waiting time, very efficient staff.",2025-12-27
+229,690,221,5,Doctor was very attentive and explained everything clearly.,2025-05-13
+230,695,152,2,Had to reschedule twice due to poor communication.,2025-05-03
+231,698,190,5,Doctor was very attentive and explained everything clearly.,2025-10-21
+232,702,208,4,Doctor was very attentive and explained everything clearly.,2025-03-17
+233,703,100,5,Doctor was very attentive and explained everything clearly.,2025-10-23
+234,708,161,3,"Average experience, doctor was a bit rushed.",2025-12-31
+235,712,169,2,Waited over an hour past my appointment time.,2025-03-11
+236,717,146,5,Great follow-up call after my visit.,2025-12-27
+237,730,215,3,"Visit was fine, nothing special.",2025-07-31
+238,731,164,1,Front desk was unresponsive to my calls.,2025-04-18
+239,732,194,2,Billing took too long and was confusing.,2025-01-27
+240,734,122,3,"Average experience, doctor was a bit rushed.",2025-03-16
+241,735,98,3,"Average experience, doctor was a bit rushed.",2025-06-11
+242,741,57,3,"Visit was fine, nothing special.",2025-05-26
+243,748,245,4,Clean facility and friendly front desk.,2025-04-02
+244,749,157,5,Doctor was very attentive and explained everything clearly.,2025-04-02
+245,751,67,4,Clean facility and friendly front desk.,2025-01-18
+246,759,248,4,Clean facility and friendly front desk.,2025-12-05
+247,761,189,5,Great follow-up call after my visit.,2025-03-13
+248,762,62,4,"Short waiting time, very efficient staff.",2025-07-19
+249,765,39,2,Had to reschedule twice due to poor communication.,2025-10-24
+250,773,44,5,Doctor was very attentive and explained everything clearly.,2025-07-09
+251,775,226,5,Great follow-up call after my visit.,2025-02-11
+252,776,181,3,"Visit was fine, nothing special.",2025-10-31
+253,783,237,3,"Average experience, doctor was a bit rushed.",2025-01-28
+254,784,65,2,Waited over an hour past my appointment time.,2025-11-12
+255,785,237,3,"Average experience, doctor was a bit rushed.",2025-04-01
+256,792,16,4,"Short waiting time, very efficient staff.",2025-03-11
+257,795,126,3,"Average experience, doctor was a bit rushed.",2025-10-30
+258,799,208,2,Had to reschedule twice due to poor communication.,2025-02-20
+259,800,193,5,Clean facility and friendly front desk.,2025-12-21
+260,809,166,5,Great follow-up call after my visit.,2025-12-27
+261,811,224,1,Billing took too long and was confusing.,2025-04-18
+262,813,116,5,Great follow-up call after my visit.,2025-09-14
+263,815,208,4,"Short waiting time, very efficient staff.",2025-04-07
+264,817,128,5,"Short waiting time, very efficient staff.",2025-04-15
+265,818,139,2,Waited over an hour past my appointment time.,2025-08-31
+266,824,159,4,Clean facility and friendly front desk.,2025-12-31
+267,825,215,5,Great follow-up call after my visit.,2025-12-21
+268,826,11,3,"Visit was fine, nothing special.",2025-10-22
+269,828,96,3,"Visit was fine, nothing special.",2025-10-04
+270,830,140,3,"Average experience, doctor was a bit rushed.",2025-06-19
+271,833,159,3,"Visit was fine, nothing special.",2025-08-17
+272,835,51,4,"Short waiting time, very efficient staff.",2025-02-12
+273,838,95,5,Doctor was very attentive and explained everything clearly.,2025-07-10
+274,841,36,1,Waited over an hour past my appointment time.,2025-11-03
+275,845,214,4,Doctor was very attentive and explained everything clearly.,2025-06-05
+276,846,40,5,"Short waiting time, very efficient staff.",2025-06-03
+277,849,154,4,Clean facility and friendly front desk.,2025-07-05
+278,851,5,5,Doctor was very attentive and explained everything clearly.,2025-03-25
+279,857,91,4,Clean facility and friendly front desk.,2025-01-07
+280,860,30,5,"Short waiting time, very efficient staff.",2025-01-09
+281,867,236,5,Clean facility and friendly front desk.,2025-04-16
+282,873,47,3,"Visit was fine, nothing special.",2025-07-14
+283,874,29,5,Doctor was very attentive and explained everything clearly.,2025-03-05
+284,877,58,4,"Short waiting time, very efficient staff.",2025-07-28
+285,878,230,5,Doctor was very attentive and explained everything clearly.,2025-12-14
+286,881,190,4,Doctor was very attentive and explained everything clearly.,2025-02-03
+287,885,72,4,Clean facility and friendly front desk.,2025-08-21
+288,894,184,5,Clean facility and friendly front desk.,2025-09-07
+289,897,83,3,"Average experience, doctor was a bit rushed.",2025-01-15
+290,898,90,5,Great follow-up call after my visit.,2025-10-26
